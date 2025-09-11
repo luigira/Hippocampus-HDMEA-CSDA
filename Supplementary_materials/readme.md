@@ -49,10 +49,14 @@ To obtain a local copy:
 git clone https://github.com/LBitn/Hippocampus-HDMEA-CSDA.git
 cd Hippocampus-HDMEA-CSDA/Supplementary_materials
 
+---
+
 ## Citation  
 If you make use of these supplementary materials, please cite the original article as follows:
 
 Zapfe, K.W.P., Romero-Maldonado, I., & Gutiérrez, R. High Resolution Detection of Stationary and Evolving 2D-Current Source Density within Neuronal Microcircuits. (Under revision, expected 2025).
+
+---
 
 ## License
 This code and associated materials are released under the GNU General Public License v3.0 (GPL-3.0).
