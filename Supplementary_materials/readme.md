@@ -1,4 +1,3 @@
-
 # Supplementary Materials  
 ### High Resolution Detection of Stationary and Evolving 2D-Current Source Density within Neuronal Microcircuits  
 
@@ -29,19 +28,36 @@ Email: rafagut@cinvestav.mx
 
 ## About This Repository  
 
-This repository hosts the **supplementary materials** associated with the article:  
+This repository contains the **supplementary materials** for the research article:  
 
 > **High Resolution Detection of Stationary and Evolving 2D-Current Source Density within Neuronal Microcircuits**  
 > Zapfe, K.W.P., Romero-Maldonado, I., & Gutiérrez, R.  
+> *Under revision* – expected publication year: **2025**
 
-The supplementary materials include figures supporting the results described in the manuscript.  
+The supplementary section includes additional data, analysis scripts, and figures that support and extend the findings presented in the manuscript. These materials are provided to facilitate transparency, reproducibility, and further exploration of the methods and results.  
 
-**GitHub Repository:**  
+---
+
+## How to Access  
+
+The supplementary materials can be accessed directly through the GitHub repository:  
+
 [Hippocampus-HDMEA-CSDA – Supplementary Materials](https://github.com/LBitn/Hippocampus-HDMEA-CSDA/tree/main/Supplementary_materials)  
 
----
+To obtain a local copy:  
+```bash
+git clone https://github.com/LBitn/Hippocampus-HDMEA-CSDA.git
+cd Hippocampus-HDMEA-CSDA/Supplementary_materials
 
-## Contents 
-- Supplementary figures and visualizations 
+## Citation  
+If you make use of these supplementary materials, please cite the original article as follows:
 
----
+Zapfe, K.W.P., Romero-Maldonado, I., & Gutiérrez, R. High Resolution Detection of Stationary and Evolving 2D-Current Source Density within Neuronal Microcircuits. (Under revision, expected 2025).
+
+## License
+This code and associated materials are released under the GNU General Public License v3.0 (GPL-3.0).
+You are free to use, modify, and distribute the contents, provided that any derivative works are also licensed under GPL-3.0.
+
+For more details, see the LICENSE
+ file in this repository or visit:
+https://www.gnu.org/licenses/gpl-3.0.en.html
