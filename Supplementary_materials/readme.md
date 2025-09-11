@@ -3,7 +3,7 @@
 
 **Authors:**  
 - K.W.P. Zapfe\*¹  
-- I. Romero-Maldonado\*¹²  
+- I. Romero-Maldonado\*¹,²  
 - R. Gutiérrez¹  
 
 ¹ Department of Pharmacobiology, Centro de Investigación y Estudios Avanzados del Instituto Politécnico Nacional, Calzada de los Tenorios No. 235, Col. Granjas Coapa C.P. 14330, México City, México  
@@ -48,6 +48,7 @@ To obtain a local copy:
 ```bash
 git clone https://github.com/LBitn/Hippocampus-HDMEA-CSDA.git
 cd Hippocampus-HDMEA-CSDA/Supplementary_materials
+```
 
 ---
 
